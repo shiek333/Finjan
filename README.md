@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Finjan der Fleischtiger</title>
-<img src="finjan.png" alt="Finjan der Fleischtiger">
+https://chatgpt.com/s/m_6a26911e4bc4819198e8611a2e672c55
   <style>
 body{
     font-family: Arial, sans-serif;
